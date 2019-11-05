@@ -4,7 +4,7 @@
 
 ##### ~~File folders~~
 
-[Visit My Blog to Listen to Local Experimental Music from St. Louis](ambientstl.com)
+[Visit My Blog to Listen to Local Experimental Music from St. Louis](www.ambientstl.com)
 
 #### My Pets
 - Gilbert (_Mini Aussie_)
