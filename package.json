@@ -1,0 +1,25 @@
+{
+  "name": "MartinCarriel",
+  "version": "1.0.0",
+  "description": "[Visit My Blog to Listen to Local Experimental Music from St. Louis](https://ambientstl.com/)",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambientstl/sc-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambientstl/sc-practice/issues"
+  },
+  "homepage": "https://github.com/ambientstl/sc-practice#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
+}
